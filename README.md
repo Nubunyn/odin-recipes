@@ -1,2 +1,2 @@
 # odin-recipes
-Practicing some HTML elements using mainly muscle memory.
+Using everything I learned for HTML from odin project to create this.

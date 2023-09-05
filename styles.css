@@ -1,6 +1,10 @@
 .pages{
-    color: red;
-    background-color: green;
+    color: yellow;
     font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#pizza-link{
+    color:rgb(209, 192, 255);
 }
 
